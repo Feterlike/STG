@@ -1,0 +1,2 @@
+# STG
+Satellite Timelapse Generator
